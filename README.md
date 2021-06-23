@@ -14,14 +14,14 @@ It should take no more than 4 hours.
 
 ### Installation
 
-Use the commands below to clone the project and install dependencies.
+Use the commands below to clone the project and install dependencies:
 
 ```
 git clone https://github.com/newswirecom/job-queue-test-project.git
 cd job-queue-test-project
 ```
 
-Update your configuration in the `.env` file.
+Update your configuration in the `.env` file and then:
 
 ```
 composer install 
