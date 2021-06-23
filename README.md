@@ -19,10 +19,15 @@ Use the commands below to clone the project and install dependencies.
 ```
 git clone https://github.com/newswirecom/job-queue-test-project.git
 cd job-queue-test-project
+```
+
+Update your configuration in the `.env` file.
+
+```
 composer install 
 npm install
 php artisan migrate
-npm run watch
+php artisan serve
 ```
 
 Open the project in your browser for further instructions. 
