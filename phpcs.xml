@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ruleset name="PSR12-Custom">
+  <description>PSR12 but without some overly strict rules</description>
+  <rule ref="PSR1" />
+  <rule ref="PSR12">
+    <exclude name="Squiz.WhiteSpace.ControlStructureSpacing.SpacingAfterOpen"/>
+    <exclude name="Squiz.WhiteSpace.ControlStructureSpacing.SpacingBeforeClose"/>
+    <exclude name="Squiz.Functions.MultiLineFunctionDeclaration"/>
+    <exclude name="PSR12.ControlStructures.ControlStructureSpacing"/>
+    <!-- excluded because multi-line args are better with alignment -->
+    <exclude name="Squiz.Functions.FunctionDeclarationArgumentSpacing.SpacingAfterHint"/>
+  </rule>
+</ruleset>

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./resources/assets/js",
+        "module": "es6",
+        "target": "es6",
+        "paths": {
+            "@components/*": ["components/*"],
+            "@js/*": ["./*"]
+        }
+    },
+
+    "include": ["resources/assets/js"]
+}
