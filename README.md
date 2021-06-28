@@ -3,7 +3,7 @@
 
 Thank you for applying for an engineer position at Newswire.\
 This project is designed to test your skills with Laravel, SQL and VueJS.\
-It should take no more than 4 hours.
+It should take no more than 4 hours but please focus on quality over quantity. 
 
 ### Requirements
 
