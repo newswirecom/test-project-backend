@@ -38,7 +38,7 @@ class Job extends Model
         'customer_id' => 'integer',
         'scheduled_at' => 'datetime',
         'is_deleted' => 'boolean',
-        'assigned_worker_id' => 'boolean',
+        'assigned_worker_id' => 'integer',
     ];
 
     /**
