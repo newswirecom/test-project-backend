@@ -5,7 +5,7 @@ namespace Tests\Feature;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
-class TestApi extends TestCase
+class ApiTest extends TestCase
 {
     /**
      * Test the API works in less than 50ms
