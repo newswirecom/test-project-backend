@@ -6,7 +6,7 @@
 
     <p>
         Thank you for applying for an engineer position at Newswire.<br>
-        This skills test should take no more than 4 hours.
+        This skills test should take no more than 4 hours but please focus on quality over quantity.
     </p>
 
     <p>
