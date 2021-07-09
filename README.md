@@ -28,6 +28,7 @@ composer install
 npm install
 php artisan migrate
 php artisan serve
+npm run watch
 ```
 
 Open the project in your browser for further instructions. 
