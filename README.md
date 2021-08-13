@@ -21,7 +21,7 @@ git clone https://github.com/newswirecom/test-project-backend.git
 cd test-project-backend
 ```
 
-Update your configuration in the `.env` file and then:
+Update your configuration in the `.env` file with database credentials and then:
 
 ```
 composer install 
