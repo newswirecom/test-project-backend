@@ -17,8 +17,8 @@ It should take no more than 4 hours but please focus on quality over quantity.
 Use the commands below to clone the project and install dependencies:
 
 ```
-git clone https://github.com/newswirecom/job-queue-test-project.git
-cd job-queue-test-project
+git clone https://github.com/newswirecom/test-project-backend.git
+cd test-project-backend
 ```
 
 Update your configuration in the `.env` file and then:
