@@ -6,7 +6,7 @@
 
     <p>
         Thank you for applying for an engineer position at Newswire.<br>
-        This skills test should take no more than 4 hours but please focus on quality over quantity.
+        Please focus on code quality when writing code for this test. 
     </p>
 
     <p>
@@ -29,15 +29,11 @@
     </p>
 
     <ol class="mb-4">
-        <li>Optimize the API such that it responds in under 50ms.</li>
         <li>Populate the available jobs table below.</li>
+        <li>Optimize the API such that it responds in under 200ms (under 50ms for maximum credit).</li>
         <li>Add functionality to assign an available job to yourself (reserve it).</li>
         <li>Update the API to allow assigned jobs to be queried.</li>
         <li>Populate the assigned jobs table below.</li>
-        <li>Add functionality to filter on the description field.</li>
-        <li>Optional: Write additional unit or feature tests.</li>
-        <li>Optional: Improve the styling of this page.</li>
-        <li>Optional: Allow jobs to be marked as complete.</li>
     </ol>
 
     <h3>Available Jobs</h3>
