@@ -20,7 +20,7 @@
         A worker views the list of available jobs.
         A worker reserves a job and works on it.
         A worker marks a job as completed.
-        For simplicity <strong>there is no authentication.</strong>
+        For simplicity <strong>there is no authentication</strong> but please write your code as if there were. 
         You can switch between workers using the link in the top right (available after running migrations).
     </p>
 
